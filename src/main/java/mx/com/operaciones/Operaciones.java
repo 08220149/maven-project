@@ -5,6 +5,4 @@ public interface Operaciones {
     double resta(double numero1, double numero2);
     double multiplicacion(double numero1, double numero2);
     double division(double numero1, double numero2);
-    double subtracion(double num1, double num2);
-    double pow(double num1, int pownum);
 }
